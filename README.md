@@ -24,8 +24,6 @@ Projeto Integrador desenvolvido no segundo semestre de Análise e Desenvolviment
 
 ![ESP8266](https://i.ibb.co/dcLfqY1/esp8266.jpg)
 
-![ESP8266](https://i.ibb.co/sHGvf1L/daa3143d-90b7-4251-978b-fe5a8b5f9fa8.jpg)
-
 ![Led](https://i.ibb.co/h9PQ75V/29ca9a7e-e97b-4e88-b969-e137a3a0688f.jpg)
 
 ![Sensor](https://i.ibb.co/vZWNTGM/b5956125-331b-460c-8188-7cc34adb5923.jpg)

@@ -36,3 +36,4 @@ O projeto nos permitiu explorar uma área da tecnologia que cresce e tem se torn
 - [@Guilherme Henrique Veloso Santos](https://github.com/GuilhermeHVSantos)
 - [@Rodrigo Eduardo Nogueira](https://github.com/Rodrigoeducativa)
 - [@Pedro Henrique Melo Silva](https://github.com/PedroHMSilva1)
+- [@Levi Freitas Silva](https://github.com/Levifreitas10)

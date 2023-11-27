@@ -33,5 +33,6 @@ O projeto nos permitiu explorar uma área da tecnologia que cresce e tem se torn
 
 ## Autores
 
-- [@GuilhermeHVSantos](https://github.com/GuilhermeHVSantos)
-- [@Rodrigo Eduardo](https://github.com/Rodrigoeducativa)
+- [@Guilherme Henrique Veloso Santos](https://github.com/GuilhermeHVSantos)
+- [@Rodrigo Eduardo Nogueira](https://github.com/Rodrigoeducativa)
+- [@Pedro Henrique Melo Silva](https://github.com/PedroHMSilva1)

@@ -20,7 +20,7 @@ Projeto Integrador desenvolvido no segundo semestre de Análise e Desenvolviment
 - MySQL
 
 
-## Screenshots
+## Fotos
 
 ![ESP8266](https://i.ibb.co/sHGvf1L/daa3143d-90b7-4251-978b-fe5a8b5f9fa8.jpg)
 
